@@ -1,7 +1,7 @@
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
 
-# Caracterización de la asignatura
+# Caracterización 
 
 Lenguajes y autómatas I tiene el propósito de identificar, tanto los elementos que integran un 
 alfabeto, como las reglas que integran un conjunto de expresiones regulares en un lenguajes formal. 
@@ -234,4 +234,3 @@ Muestra la interpretación de un código fuente.
 [16] Modela y codifica en un lenguaje compilado o un lenguaje interpretado una 
 máquina de TURING. 
 
-"# TransversalidadSTEAM" 
