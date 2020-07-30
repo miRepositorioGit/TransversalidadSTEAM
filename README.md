@@ -30,7 +30,7 @@ para enriquecer su futura práctica docente con la transversalidad que ofrecen e
 # Competencia de desarrollar 
 
 Identificar, enumerar y aplicar los conocimientos fácticos, como las formas de hacer, pensar y sentir de 
-la ciencia, la ingeniería, el arte y las matemáticas para enriquecer, innovar un contenido temático 
+la ciencia, la ingeniería, el arte y las matemáticas para enriquecer e innovar un contenido temático 
 de una asignatura de formación básica y/o propedéutica en la Educación Media Superior. 
 
 # Competencias previas
@@ -45,14 +45,15 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
  3. Evaluar cualitativamente y cuantitativamente los avances presentados en el grupo piloto.
  
 # Datos generales.  
-- Duración total 320 horas, 224 horas práctica, 96 horas teoria.
-- Acreditación de asistencia: 80%.
-- Acreditación mínima: SETENTA.
-- Al concluir el periodo de capacitación y haber aprobado TODOS los módulos del diplomado,
+1. Elaborar una presentación ejecutiva del Profesor/a en formato pdf [3].
+2. Duración total 320 horas, 224 horas práctica, 96 horas teoria.
+3. Acreditación de asistencia: 80%.
+4. Acreditación mínima: SETENTA.
+5. Al concluir el periodo de capacitación y haber aprobado TODOS los módulos del diplomado,
   el Centro Nacional de Actualización Docente (CNAD), emitirá un comprobante curricular.
-- El Centro Nacional de Actualización Docente (CNAD), dará seguimiento de los proyecto de intervención
+6. El Centro Nacional de Actualización Docente (CNAD), dará seguimiento de los proyecto de intervención
 concluidos.
-- Los gastos de transportación, alimentación e insumos materiales, serán sufragados por los participantes.
+7. Los gastos de transportación, alimentación e insumos materiales, serán sufragados por los y las participantes.
 
 # Requerimientos técnicos y materiales de apoyo
 - Un equipo de cómputo con sistema operativo Windows 7  o posterior con derechos de administrador, un puerto USB, un puerto de video, 4 Gigabytes en RAM, 100 Gigabytes
@@ -94,6 +95,7 @@ disponibles en disco duro.
 [2] Estructura curricular bachillerato.
 [Mirar,descargar](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/miscelanos/estructuraCurricularBachilleratoTecnologicoUemstis.png)
 
+[3] Formato presentación ejecutiva del Profesores/as.
 
 
 
