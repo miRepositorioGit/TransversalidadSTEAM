@@ -47,10 +47,10 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
 # Datos generales.  
 1. Elaborar una presentación ejecutiva del Profesor/a en formato pdf [3].
 2. Duración total 320 horas, 224 horas práctica, 96 horas teoria.
-3. Acreditación de asistencia: 80%.
-4. Acreditación mínima: SETENTA.
+3. Acreditación de asistencia del diplomado: 80%.
+4. Acreditación mínima del diplomado: SETENTA.
 5. Al concluir el periodo de capacitación y haber aprobado TODOS los módulos del diplomado,
-  el Centro Nacional de Actualización Docente (CNAD), emitirá un comprobante curricular.
+  el Centro Nacional de Actualización Docente (CNAD), emitirá un comprobante de liberación curricular.
 6. El Centro Nacional de Actualización Docente (CNAD), dará seguimiento de los proyecto de intervención
 concluidos.
 7. Los gastos de transportación, alimentación e insumos materiales, serán sufragados por los y las participantes.
