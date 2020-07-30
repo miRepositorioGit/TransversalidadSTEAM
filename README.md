@@ -46,6 +46,8 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
  
 # Datos generales.  
 - Duración total 320 horas, 224 horas práctica, 96 horas teoria.
+- Al concluir el periodo de capacitación y haber abrobado todos los módulos del diplomado,
+  el Centro Nacional de Actualización Docente (CNAD), emitirá un comprobante curricular.
 - Acreditación de asistencia: 80%.
 - Acreditación mínima: SETENTA. 
 
