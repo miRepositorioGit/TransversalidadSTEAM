@@ -45,7 +45,9 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
  3. Evaluar cualitativamente y cuantitativamente los avances presentados en el grupo piloto.
  
 # Datos generales.  
-Duración total 320 horas, 224 horas práctica, 96 horas teoria.
+- Duración total 320 horas, 224 horas práctica, 96 horas teoria.
+- Acreditación de asistencia: 80%.
+- Acreditación mínima: SETENTA. 
 
 
 # Requerimientos técnicos y materiales de apoyo
@@ -85,10 +87,10 @@ disponibles en disco duro.
 # Referencias.
 
 [1] Convocatoria Borrador.
-[Descargar convocatoria.](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/Pdf/ConvocatoriaTransversalidadCienciaTecnologiaIngenieriaArteMatematicas2020.pdf)
+[Mirar, descargar](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/Pdf/ConvocatoriaTransversalidadCienciaTecnologiaIngenieriaArteMatematicas2020.pdf)
 
 [2] Estructura curricular bachillerato.
-[Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/miscelanos/estructuraCurricularBachilleratoTecnologicoUemstis.png)
+[Mirar,descargar](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/miscelanos/estructuraCurricularBachilleratoTecnologicoUemstis.png)
 
 
 
