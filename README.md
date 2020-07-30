@@ -40,17 +40,19 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
 
 # Evaluación.
 
- 1. Diseñar una instrumetación didáctica en un tema de asigantura básica y/o propedéutica haciendo uso de la transversalidad que ofrecen las disciplinas STEAM.
- 2. Implementar una isntrumetación didáctica en un grupo piloto
+ 1. Diseñar una instrumentación didáctica en un tema de asigantura básica y/o propedéutica haciendo uso de la transversalidad que ofrecen las disciplinas STEAM.
+ 2. Implementar una instrumentación didáctica en un grupo piloto
  3. Evaluar cualitativamente y cuantitativamente los avances presentados en el grupo piloto.
  
 # Datos generales.  
 - Duración total 320 horas, 224 horas práctica, 96 horas teoria.
-- Al concluir el periodo de capacitación y haber abrobado todos los módulos del diplomado,
+- Al concluir el periodo de capacitación y haber aprobado TODOS los módulos del diplomado,
   el Centro Nacional de Actualización Docente (CNAD), emitirá un comprobante curricular.
 - Acreditación de asistencia: 80%.
 - Acreditación mínima: SETENTA. 
-
+- El Centro Nacional de Actualización Docente (CNAD), dará seguimiento de los proyecto de intervención
+concluidos.
+- Los gastos de transportación, alimentación e insumos materiales, son sufragar por los participantes.
 
 # Requerimientos técnicos y materiales de apoyo
 - Un equipo de cómputo con sistema operativo Windows 7  o posterior con derechos de administrador, un puerto USB, un puerto de video, 4 Gigabytes en RAM, 100 Gigabytes
