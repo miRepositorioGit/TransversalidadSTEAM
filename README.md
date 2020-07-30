@@ -88,7 +88,7 @@ disponibles en disco duro.
 [Descargar convocatoria.](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/Pdf/ConvocatoriaTransversalidadCienciaTecnologiaIngenieriaArteMatematicas2020.pdf)
 
 [2] Estructura curricular bachillerato.
-[Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
+[Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/miscelanos/estructuraCurricularBachilleratoTecnologicoUemstis.png)
 
 
 
