@@ -11,7 +11,7 @@ denominado “Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Ma
 (STEAM) en la Educación Media Superior”, 320 horas, el cual será impartido por el Centro Nacional
 de Actualización Docente (CNAD), adscrito a la UEMSTIS, del 03 de agosto al 30 de
 septiembre de 2020, con horario de Lunes a Viernes de 9:00 a 17:00 horas, 
-a solicitar la Beca para la Profesionalización Docente.[1].
+a solicitar la Beca para la Profesionalización Docente [1].
 
 # Perfil de ingreso
 Quince Profesores/as que imparten clases en el Bachillerato Tecnológico en el sistema
@@ -58,13 +58,13 @@ disponibles en disco duro.
 
 | Temas                 | Subtemas                   |
 | --------------------- | ---------------------------|
-| **Marco conceptual.** | 						                     |
-| 			                   | La Nueva Escuela Mexicana. |
-|              		      	| Revisión de las teorías del aprendizaje.|
+| **Marco conceptual.** | 						     |
+| 			            | La Nueva Escuela Mexicana. |
+|              		  	| Revisión de las teorías del aprendizaje.|
 |                       | Modelo de aprendizaje STEAM.| 
 |                       |                            |
-| **Desarrollo del aprendizaje activo tranversal.**|   |
-|                       | Elementos que justifican la tranversalidad entre asignaturas formación  básica y/o propedéutica.|  
+| **Desarrollo del aprendizaje activo transversal.**|   |
+|                       | Elementos que justifican la transversalidad entre asignaturas formación  básica y/o propedéutica.|  
 |                       |                            |
 |                       | Recursos educativos abiertos y objetos de aprendizaje. |
 |                       |  1. Diseño y manufactura 3D. |
@@ -84,10 +84,10 @@ disponibles en disco duro.
 
 # Referencias.
 
-[1] 
-[Descargar temario.](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/Lenguajes%20y%20Aut%C3%B3matas%20I.pdf)__
+[1] Convocatoria Borrador.
+[Descargar convocatoria.](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/Pdf/ConvocatoriaTransversalidadCienciaTecnologiaIngenieriaArteMatematicas2020.pdf)
 
-[2] 
+[2] Estructura curricular bachillerato.
 [Mirar y Descargar: Instrumentación didáctica](https://github.com/miRepositorioGit/LenguajesAutomatasI/blob/master/Miselaneos/InstrumentacionDidactica_LenguajesAutomatas_I_Ene_Jul2020_Entregable.pdf)
 
 
