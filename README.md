@@ -63,7 +63,7 @@ disponibles en disco duro.
 
 # Temario
 
-| Temas                 | Subtemas                   |
+| Módulos               | Tema / Subtema             |
 | --------------------- | ---------------------------|
 | **Marco conceptual.** | 						     |
 | 			            | La Nueva Escuela Mexicana. |
