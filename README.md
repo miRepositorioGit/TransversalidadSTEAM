@@ -1,8 +1,8 @@
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
 
-# Convocatoria 
-A profesores/as que imparten clases en el Bachillerato Tecnológico en el sistema
+# Descripción general.
+Dirigido a profesores/as que imparten clases en el Bachillerato Tecnológico en el sistema
 escolarizado (excepto Director/a de Plantel), afines al campo profesional industrial, en
 planteles de la Unidad de Educación Media Superior Tecnológica Industrial y de
 Servicios (UEMSTIS) y del Colegio de Estudios Científicos y Tecnológicos (CECyTE) y que
@@ -80,7 +80,7 @@ disponibles en disco duro.
 |                       | Reducción de la brecha digital.                           |
 |                       | Incorporación de recurso existente para la impartición de clase. |
 |                       | Educación a distancia. |
-| **Incorporando STEAM a la práctica docente.**|   |
+| **Proyecto de intervención y plan de acción.**|   |
 |                       | Tipos y características del proyecto de intervención. |
 |                       | Problematismo y definición. |
 |                       | Idealización y prototipo.   |
