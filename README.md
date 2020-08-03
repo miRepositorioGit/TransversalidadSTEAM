@@ -1,4 +1,4 @@
-			<!--- Header -->
+<!--- Header -->
 
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
@@ -15,7 +15,7 @@ de Actualización Docente (CNAD), adscrito a la UEMSTIS, del 03 de agosto al 30 
 septiembre de 2020, con horario de Lunes a Viernes de 9:00 a 17:00 horas, 
 a solicitar la Beca para la Profesionalización Docente [1].
 
-			<!--- Body -->
+<!--- Body -->
 
 # Perfil de ingreso
 Quince Profesores/as que imparten clases en el Bachillerato Tecnológico en el sistema
