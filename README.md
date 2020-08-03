@@ -1,6 +1,4 @@
-{% comment %} 
-    These commments will not include inside the source.
-{% endcomment %}
+<!--- Header -->
 
 
 
