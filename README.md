@@ -1,4 +1,4 @@
-		[//]: <> (This is also a comment.)
+		<> (This is also a comment.)
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
 
