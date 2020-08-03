@@ -1,4 +1,4 @@
-		<> (This is also a comment.)
+		[comment]: <> (This is a header)
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
 
