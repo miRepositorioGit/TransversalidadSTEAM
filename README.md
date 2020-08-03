@@ -1,3 +1,9 @@
+{% comment %} 
+    These commments will not include inside the source.
+{% endcomment %}
+
+
+
 # Diplomado en formación de habilidades STEAM. 
 # Transversalidad de la Ciencia, Tecnología, Ingeniería, Arte y Matemáticas (STEAM) en la Educación Media Superior.
 
