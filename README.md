@@ -17,7 +17,7 @@ a solicitar la Beca para la Profesionalización Docente [1].
 
 <!--- Body -->
 
-# Perfil de ingreso
+# Perfil de ingreso.
 Quince Profesores/as que imparten clases en el Bachillerato Tecnológico en el sistema
 escolarizado (excepto Director/a de Plantel), afines al campo profesional industrial, en
 planteles de la Unidad de Educación Media Superior Tecnológica Industrial y de
@@ -25,19 +25,19 @@ Servicios (UEMSTIS) y del Colegio de Estudios Científicos y Tecnológicos (CECy
 Quienes hayan impartido asiganturas del componente de formación básica y propedéutica [2] 
 durante el ciclo escolar anterior a la publicación de ésta convocatoria.
 
-# Intención didáctica
+# Intención didáctica.
 
 Fomentar el uso de las habilidades presentes en las disciplinas de: Tecnología, Ingeniería, 
 Arte y Matemáticas; en asignaturas de formación básica y/o propedéutica en Profesores/as 
 para enriquecer su futura práctica docente con la transversalidad que ofrecen estas disciplinas.  
 
-# Competencia de desarrollar 
+# Competencia de desarrollar.
 
 Identificar, enumerar y aplicar los conocimientos fácticos, como las formas de hacer, pensar y sentir de 
 la ciencia, la ingeniería, el arte y las matemáticas para enriquecer e innovar un contenido temático 
 de una asignatura de formación básica y/o propedéutica en la Educación Media Superior. 
 
-# Competencias previas
+# Competencias previas.
 
 - Identifica, localiza, recupera, almacena, organiza, analiza y evalua información en formato digital.
 - Comunica, comparte recursos en línea, conecta y colabora con otras personas mediante herramientas digitales.
