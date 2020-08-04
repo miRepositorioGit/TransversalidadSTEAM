@@ -90,6 +90,7 @@ disponibles en disco duro.
 |                       | Idealización y prototipo.   |
 |                       | Presentación y retroalimentación. |
 
+<!---   -->
 
 # Referencias.
 
@@ -99,7 +100,7 @@ disponibles en disco duro.
 [2] Estructura curricular bachillerato.
 [Mirar,descargar](https://github.com/miRepositorioGit/TransversalidadSTEAM/blob/master/miscelanos/estructuraCurricularBachilleratoTecnologicoUemstis.png)
 
-[3] Formato presentación ejecutiva del Profesores/as.
+[3] Formato presentación ejecutiva del Profesores/as. <!--- actualizar con el formato   -->
 
 <!--- Footer -->
 
