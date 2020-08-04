@@ -84,7 +84,7 @@ disponibles en disco duro.
 |                       | Reducción de la brecha digital.                           |
 |                       | Incorporación de recurso existente para la impartición de clase. |
 |                       | Educación a distancia. |
-| **Proyecto de intervención y plan de acción.**|   |
+| **Proyecto de intervención/innovación  y plan de acción.**|   |
 |                       | Tipos y características del proyecto de intervención. |
 |                       | Problematismo y definición. |
 |                       | Idealización y prototipo.   |
