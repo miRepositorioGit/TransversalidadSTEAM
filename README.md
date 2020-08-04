@@ -71,8 +71,9 @@ disponibles en disco duro.
 | --------------------- | ---------------------------|
 | **Marco conceptual.** | 						     |
 |			            | La Nueva Escuela Mexicana. |
-|                       | - revisión del modelo educativo |
+|                       | - Revisión del modelo educativo |
 |              		  	| Revisión de las teorías del aprendizaje.|
+|                       | 							 |
 |                       | Modelo de aprendizaje STEAM.| 
 | **Desarrollo del aprendizaje activo transversal.**|   |
 |                       | Elementos que justifican la transversalidad entre asignaturas formación  básica y/o propedéutica.|  
