@@ -70,7 +70,8 @@ disponibles en disco duro.
 | Módulos               | Tema / Subtema             |
 | --------------------- | ---------------------------|
 | **Marco conceptual.** | 						     |
-| 			            | La Nueva Escuela Mexicana. |
+|			            | La Nueva Escuela Mexicana. |
+|                       | - revisión del modelo educativo |
 |              		  	| Revisión de las teorías del aprendizaje.|
 |                       | Modelo de aprendizaje STEAM.| 
 | **Desarrollo del aprendizaje activo transversal.**|   |
