@@ -65,7 +65,7 @@ disponibles en disco duro.
 - Una cuenta de correo electrónico en Google y 10 Gigabytes disponibles en unidad Drive.
 - Una memoria USB de 16 Gigabytes.
 
-# Temario
+# Temario.
 
 | Módulos               | Tema / Subtema             |
 | --------------------- | ---------------------------|
