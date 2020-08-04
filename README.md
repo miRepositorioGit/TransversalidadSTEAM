@@ -90,7 +90,7 @@ disponibles en disco duro.
 |                       | Problematismo y definición. |
 |                       | Idealización y prototipo.   |
 |                       | Presentación y retroalimentación. |
-
+   
 <!---   -->
 
 # Referencias.
