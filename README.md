@@ -73,7 +73,7 @@ disponibles en disco duro.
 |			            | La Nueva Escuela Mexicana. |
 |                       | - Revisión del modelo educativo |
 |              		  	| Revisión de las teorías del aprendizaje.|
-|                       | 							 |
+|                       | Componentes de un ambiente de aprendizaje. |
 |                       | Modelo de aprendizaje STEAM.| 
 | **Desarrollo del aprendizaje activo transversal.**|   |
 |                       | Elementos que justifican la transversalidad entre asignaturas formación  básica y/o propedéutica.|  
