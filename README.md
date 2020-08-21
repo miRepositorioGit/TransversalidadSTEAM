@@ -22,7 +22,7 @@ Quince Profesores/as que imparten clases en el Bachillerato Tecnológico en el s
 escolarizado (excepto Director/a de Plantel), afines al campo profesional industrial, en
 planteles de la Unidad de Educación Media Superior Tecnológica Industrial y de
 Servicios (UEMSTIS) y del Colegio de Estudios Científicos y Tecnológicos (CECyTE). 
-Quienes hayan impartido asiganturas del componente de formación básica y propedéutica [2] 
+Quienes hayan impartido asignaturas del componente de formación básica y propedéutica [2] 
 durante el ciclo escolar anterior a la publicación de ésta convocatoria.
 
 # Intención didáctica.
@@ -39,7 +39,7 @@ de una asignatura de formación básica y/o propedéutica en la Educación Media
 
 # Competencias previas.
 
-- Identifica, localiza, recupera, almacena, organiza, analiza y evalua información en formato digital.
+- Identifica, localiza, recupera, almacena, organiza, analiza y evalúa información en formato digital.
 - Comunica, comparte recursos en línea, conecta y colabora con otras personas mediante herramientas digitales.
 
 # Evaluación.
